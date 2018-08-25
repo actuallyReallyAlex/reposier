@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexlee-dev/Reposier.git"
+    "url": "git+https://github.com/alexlee-dev/reposier.git"
   },
   "keywords": [
     "GitHub",
@@ -21,7 +21,7 @@
   "author": "Alex Lee",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/alexlee-dev/Reposier/issues"
+    "url": "https://github.com/alexlee-dev/reposier/issues"
   },
-  "homepage": "https://github.com/alexlee-dev/Reposier#readme"
+  "homepage": "https://github.com/alexlee-dev/reposier#readme"
 }
