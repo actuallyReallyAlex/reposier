@@ -4,7 +4,7 @@
   "description": "Tasty CLI on the outside, simple integration with GitHub's API on the inside.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update-changelog": "github_changelog_generator -u alexlee-dev -p reposier"
   },
   "repository": {
     "type": "git",
