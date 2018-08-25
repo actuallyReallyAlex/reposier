@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>reposier - Tasty CLI on the outside, simple integration with GitHub's API on the inside.</title>
@@ -7,15 +8,37 @@
   <meta name="description" content="Tasty CLI on the outside, simple integration with GitHub's API on the inside.">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="style.css">
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 </head>
+
 <body>
-  <div id="app"></div>
+  <div data-app id="app">Please wait ...</div>
   <script>
     window.$docsify = {
       name: 'reposier',
-      repo: 'https://github.com/alexlee-dev/reposier'
+      repo: 'https://github.com/alexlee-dev/reposier',
+      themeColor: '#6866FB',
+      coverpage: true,
+      logo: 'logo.svg',
+      search: 'auto'
+      // loadSidebar: true,
+      // ga: 'UA-1234567777'
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <script>
+      var beamer_config = {
+        product_id : "THLmXrzw5310", //DO NOT CHANGE: This is your product code on Beamer
+        button_position: 'bottom-right' /*Position for the default notification button. Other possible values are 'bottom-left', 'top-left' and 'top-right'.*/
+      };
+    </script>
+    <script type="text/javascript" src="https://app.getbeamer.com/js/beamer-embed.js" defer="defer"></script>
+              
 </body>
+
 </html>
