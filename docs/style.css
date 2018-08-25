@@ -1,0 +1,9 @@
+/* Main Cover Logo */
+.cover-main img {
+  max-width: 325px;
+}
+
+/* Logo in Sidebar */
+.app-name-link img {
+  max-width: 225px;
+}
