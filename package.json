@@ -3,6 +3,9 @@
   "version": "0.0.3",
   "description": "Tasty CLI on the outside, simple integration with GitHub's API on the inside.",
   "main": "index.js",
+  "bin": {
+    "reposier": "./index.js"
+  },
   "scripts": {
     "update-changelog": "github_changelog_generator -u alexlee-dev -p reposier"
   },
