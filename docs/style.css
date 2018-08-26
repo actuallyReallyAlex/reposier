@@ -7,3 +7,8 @@
 .app-name-link img {
   max-width: 225px;
 }
+
+/* Main Font Style */
+* {
+  font-family: 'Comfortaa', cursive;
+}
