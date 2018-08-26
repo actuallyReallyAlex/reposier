@@ -52,6 +52,7 @@ const run = () => {
         })
       } else {
         // Create Main Menu
+        createMenu(mainMenu, 'main')
       }
     } else {
       // User is not connected to internet
