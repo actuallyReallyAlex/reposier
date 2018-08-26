@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.0.3](https://github.com/alexlee-dev/reposier/tree/v0.0.3) (2018-08-26)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.0.2...v0.0.3)
+
+**Fixed bugs:**
+
+- Sidebar Logo - Missing Font [\#1](https://github.com/alexlee-dev/reposier/issues/1)
+
 ## [v0.0.2](https://github.com/alexlee-dev/reposier/tree/v0.0.2) (2018-08-25)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.0.1...v0.0.2)
 
