@@ -1,0 +1,20 @@
+{
+    "name": "reposier",
+    "short_name": "reposier",
+    "icons": [
+        {
+            "src": "/docs/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/docs/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#6866fb",
+    "background_color": "#6866fb",
+    "start_url": "https://www.reposier.com/",
+    "display": "standalone"
+}
