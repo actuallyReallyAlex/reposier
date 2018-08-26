@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.1.0](https://github.com/alexlee-dev/reposier/tree/v0.1.0) (2018-08-26)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.0.3...v0.1.0)
+
+**Fixed bugs:**
+
+- New Favicon Not Loaded: Incorrect Paths [\#2](https://github.com/alexlee-dev/reposier/issues/2)
+
 ## [v0.0.3](https://github.com/alexlee-dev/reposier/tree/v0.0.3) (2018-08-26)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.0.2...v0.0.3)
 
