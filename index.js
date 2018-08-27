@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+require('dotenv').config()
+
 // To print NodeJS errors in a more readable format
 require('pretty-error').start()
 // To check if user is connected to internet
