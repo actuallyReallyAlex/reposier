@@ -1,6 +1,6 @@
 {
   "name": "reposier",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Tasty CLI on the outside, simple integration with GitHub's API on the inside.",
   "main": "index.js",
   "bin": {
