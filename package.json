@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/alexlee-dev/reposier/issues"
   },
-  "homepage": "https://github.com/alexlee-dev/reposier#readme",
+  "homepage": "https://www.reposier.com/",
   "dependencies": {
     "boxen": "^1.3.0",
     "clear": "^0.1.0",
