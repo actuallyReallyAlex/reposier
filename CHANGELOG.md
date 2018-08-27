@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.4.0](https://github.com/alexlee-dev/reposier/tree/v0.4.0) (2018-08-27)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.3.0...v0.4.0)
+
+**Implemented enhancements:**
+
+- Ability to Overwrite Old Token with New Token [\#5](https://github.com/alexlee-dev/reposier/issues/5)
+
 ## [v0.3.0](https://github.com/alexlee-dev/reposier/tree/v0.3.0) (2018-08-27)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.2.0...v0.3.0)
 
