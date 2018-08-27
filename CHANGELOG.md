@@ -1,5 +1,16 @@
 # Change Log
 
+## [v0.3.0](https://github.com/alexlee-dev/reposier/tree/v0.3.0) (2018-08-27)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.2.0...v0.3.0)
+
+**Implemented enhancements:**
+
+- Ability to Generate Token in App [\#4](https://github.com/alexlee-dev/reposier/issues/4)
+
+**Merged pull requests:**
+
+- Create CODE\_OF\_CONDUCT.md [\#3](https://github.com/alexlee-dev/reposier/pull/3) ([alexlee-dev](https://github.com/alexlee-dev))
+
 ## [v0.2.0](https://github.com/alexlee-dev/reposier/tree/v0.2.0) (2018-08-27)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.1.0...v0.2.0)
 
