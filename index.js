@@ -19,10 +19,10 @@ const {
   displayNoConnection,
   displaySetupWalkthrough
 } = require('./lib/helpers')
-const { setupMenu, mainMenu } = require('./lib/menus')
+const { setupMenu, mainMenu, setupResponse, mainResponse } = require('./lib/menus')
 
 const test = () => {
-  createMenu(mainMenu, 'main', 'none', true)
+  createMenu(mainMenu, mainResponse, 'main', 'none', true)
 }
 
 // test()
@@ -48,11 +48,11 @@ const run = () => {
 
         // After final statement, prompt user for GitHub username and password
         timeout(8000, () => {
-          createMenu(setupMenu, 'setup')
+          createMenu(setupMenu, setupResponse, 'setup')
         })
       } else {
         // Create Main Menu
-        createMenu(mainMenu, 'main')
+        createMenu(mainMenu, mainResponse, 'main')
       }
     } else {
       // User is not connected to internet
