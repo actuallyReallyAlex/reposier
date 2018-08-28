@@ -37,8 +37,7 @@
     "gradient-string": "^1.1.0",
     "inquirer": "^6.2.0",
     "is-online": "^7.0.0",
-    "ora": "^3.0.0",
-    "request": "^2.88.0"
+    "ora": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "^5.4.0",
