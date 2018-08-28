@@ -12,7 +12,6 @@ const ora = require('ora')
 const Configstore = require('configstore')
 // Create a Configuration File with Configstore
 const conf = new Configstore('reposier')
-
 // Custom Modules
 const {
   printTitle,
@@ -21,10 +20,17 @@ const {
   displayNoConnection,
   displaySetupWalkthrough
 } = require('./lib/helpers')
-const { setupMenu, mainMenu, setupResponse, mainResponse } = require('./lib/menus')
+const {
+  setupMenu,
+  mainMenu,
+  setupResponse,
+  mainResponse
+} = require('./lib/menus')
+
+const { generateToken } = require('./lib/requests')
 
 const test = () => {
-  createMenu(mainMenu, mainResponse, 'main', 'none', true)
+  generateToken()
 }
 
 // test()
