@@ -7,7 +7,8 @@
     "reposier": "./index.js"
   },
   "scripts": {
-    "update-changelog": "github_changelog_generator -u alexlee-dev -p reposier"
+    "update-changelog": "github_changelog_generator -u alexlee-dev -p reposier",
+    "record-gif": "echo \"svg-term --cast=CAST_ID --out FILENAME.svg --window\""
   },
   "repository": {
     "type": "git",
