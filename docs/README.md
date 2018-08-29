@@ -41,7 +41,7 @@ reposier
 ❯ Generate List of Starred Repositories
 ```
 
-![Generate List of Starred Repositories](https://res.cloudinary.com/alexlee-dev/image/upload/v1535575814/reposier/listOfStarredRepos.svg)
+![Generate List of Starred Repositories](https://res.cloudinary.com/alexlee-dev/image/upload/v1535576160/reposier/listOfStarredRepos.svg)
 
 ### Editing Credentials
 
