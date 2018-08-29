@@ -43,6 +43,8 @@ reposier
 
 ![Generate List of Starred Repositories](https://res.cloudinary.com/alexlee-dev/image/upload/v1535576160/reposier/listOfStarredRepos.svg)
 
+[Example Markdown file](https://github.com/alexlee-dev/reposier/blob/master/examples/exports/md/starredRepos.md)
+
 ### Editing Credentials
 
 ```sh
