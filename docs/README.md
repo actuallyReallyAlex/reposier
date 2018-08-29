@@ -30,6 +30,19 @@ Follow the prompts to set up your user credentials.
 reposier
 ```
 
+### Generating List of Starred Repositories
+
+Reposier can generate a markdown file to display information about the repositories you have currently starred.
+Currently, markdown is the only supported filetype. In a future update, I plan to implement HTML and other file types as well.
+The maximum amount of starred repositories reposier can generate a list for is 100. If you would like support for more than 100 repos, open an issue. I will implement the change if necessary.
+
+```sh
+reposier
+❯ Generate List of Starred Repositories
+```
+
+![Generate List of Starred Repositories](https://res.cloudinary.com/alexlee-dev/image/upload/v1535575814/reposier/listOfStarredRepos.svg)
+
 ### Editing Credentials
 
 ```sh
