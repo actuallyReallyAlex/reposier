@@ -29,14 +29,12 @@ const {
 
 const { generateToken, getStarredRepos } = require('./lib/requests')
 
-const moment = require('moment')
-
 const test = () => {
   // generateToken()
-  getStarredRepos()
+  // getStarredRepos()
 }
 
-test()
+// test()
 
 // Overall functionality
 const run = () => {
@@ -80,4 +78,4 @@ const run = () => {
 }
 
 // Run reposier
-// run()
+run()
