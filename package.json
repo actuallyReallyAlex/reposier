@@ -17,9 +17,7 @@
     "README.md"
   ],
   "scripts": {
-    "test": "jest",
-    "update-changelog": "github_changelog_generator -u alexlee-dev -p reposier",
-    "record-gif": "echo \"svg-term --cast=CAST_ID --out FILENAME.svg --window\""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
