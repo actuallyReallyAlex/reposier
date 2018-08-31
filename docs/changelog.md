@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.8.0](https://github.com/alexlee-dev/reposier/tree/v0.8.0) (2018-08-31)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.7.0...v0.8.0)
+
+**Implemented enhancements:**
+
+- Ability To "Transfer" Stars from Temp User to Current User [\#10](https://github.com/alexlee-dev/reposier/issues/10)
+
 ## [v0.7.0](https://github.com/alexlee-dev/reposier/tree/v0.7.0) (2018-08-31)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.6.0...v0.7.0)
 
