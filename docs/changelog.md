@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.9.1](https://github.com/alexlee-dev/reposier/tree/v0.9.1) (2018-08-31)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.9.0...v0.9.1)
+
+**Implemented enhancements:**
+
+- Add Requirements to Documentation [\#11](https://github.com/alexlee-dev/reposier/issues/11)
+
 ## [v0.9.0](https://github.com/alexlee-dev/reposier/tree/v0.9.0) (2018-08-31)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.8.2...v0.9.0)
 
