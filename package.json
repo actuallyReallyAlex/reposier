@@ -17,6 +17,7 @@
     "README.md"
   ],
   "scripts": {
+    "test": "jest",
     "update-changelog": "github_changelog_generator -u alexlee-dev -p reposier",
     "record-gif": "echo \"svg-term --cast=CAST_ID --out FILENAME.svg --window\""
   },
@@ -62,6 +63,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^7.0.1",
     "eslint-plugin-promise": "^4.0.0",
-    "eslint-plugin-standard": "^3.1.0"
+    "eslint-plugin-standard": "^3.1.0",
+    "jest": "^23.5.0"
   }
 }
