@@ -1,5 +1,15 @@
 # Change Log
 
+## [v1.0.1](https://github.com/alexlee-dev/reposier/tree/v1.0.1) (2018-08-31)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v1.0.0...v1.0.1)
+
+**Implemented enhancements:**
+
+- Add "Built With" Section in Documentation [\#14](https://github.com/alexlee-dev/reposier/issues/14)
+
+## [v1.0.0](https://github.com/alexlee-dev/reposier/tree/v1.0.0) (2018-08-31)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.9.3...v1.0.0)
+
 ## [v0.9.3](https://github.com/alexlee-dev/reposier/tree/v0.9.3) (2018-08-31)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.9.2...v0.9.3)
 
