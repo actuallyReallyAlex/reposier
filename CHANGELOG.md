@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.9.2](https://github.com/alexlee-dev/reposier/tree/v0.9.2) (2018-08-31)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.9.1...v0.9.2)
+
+**Fixed bugs:**
+
+- Menus Currently Show Empty Functions [\#15](https://github.com/alexlee-dev/reposier/issues/15)
+
 ## [v0.9.1](https://github.com/alexlee-dev/reposier/tree/v0.9.1) (2018-08-31)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.9.0...v0.9.1)
 
