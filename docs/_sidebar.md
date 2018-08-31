@@ -1,6 +1,8 @@
 * [reposier](?id=reposier)
 
     * [Installation](?id=installation)
+        * [Prerequisites](?id=prerequisites)
+        * [Install from NPM](?id=install-from-npm)
     * [Usage Examples](?id=usage-examples)
         * [Initial Setup](?id=initial-setup)
         * [Startup](?id=startup)
