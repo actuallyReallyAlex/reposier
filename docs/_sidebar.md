@@ -6,7 +6,10 @@
     * [Usage Examples](?id=usage-examples)
         * [Initial Setup](?id=initial-setup)
         * [Startup](?id=startup)
-        * [Editing Credentials](?id=editing-credentials)
+        * [Generating List of Starred Repositories](?id=generating-list-of-starred-repositories)
+        * ["Transfer" Starred Repositories](?id=quottransferquot-starred-repositories)
+            * [Transferring from Default User](?id=transferring-from-default-user)
+            * [Transferring from Other User](?id=transferring-from-other-user)
         * [Viewing Credentials](?id=viewing-credentials)
         * [Exiting Program](?id=exiting-program)
     * [Uninstall](?id=uninstall)
@@ -14,5 +17,6 @@
     * [Meta](?id=meta)
     * [Contributing](?id=contributing)
     * [Related Projects](?id=related-projects)
+    * [Built With](?id=built-with)
 
 * [Changelog](changelog.md)
