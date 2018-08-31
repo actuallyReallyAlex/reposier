@@ -1,5 +1,8 @@
 # Change Log
 
+## [v0.8.1](https://github.com/alexlee-dev/reposier/tree/v0.8.1) (2018-08-31)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.8.0...v0.8.1)
+
 ## [v0.8.0](https://github.com/alexlee-dev/reposier/tree/v0.8.0) (2018-08-31)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.7.0...v0.8.0)
 
