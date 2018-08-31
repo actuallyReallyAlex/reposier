@@ -1,5 +1,13 @@
 # Change Log
 
+## [v0.7.0](https://github.com/alexlee-dev/reposier/tree/v0.7.0) (2018-08-31)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.6.0...v0.7.0)
+
+**Fixed bugs:**
+
+- Environment Variables not Parsed by dotenv [\#7](https://github.com/alexlee-dev/reposier/issues/7)
+- Package Ships With Unwanted Contents | Missing Wanted Contents [\#6](https://github.com/alexlee-dev/reposier/issues/6)
+
 ## [v0.6.0](https://github.com/alexlee-dev/reposier/tree/v0.6.0) (2018-08-29)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.5.0...v0.6.0)
 
