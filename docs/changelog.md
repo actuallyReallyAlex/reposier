@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.9.0](https://github.com/alexlee-dev/reposier/tree/v0.9.0) (2018-08-31)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.8.2...v0.9.0)
+
+**Implemented enhancements:**
+
+- Add Tests of Simple Functions [\#13](https://github.com/alexlee-dev/reposier/issues/13)
+
 ## [v0.8.2](https://github.com/alexlee-dev/reposier/tree/v0.8.2) (2018-08-31)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.8.1...v0.8.2)
 
