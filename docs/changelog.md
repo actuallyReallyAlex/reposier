@@ -1,5 +1,12 @@
 # Change Log
 
+## [v0.9.3](https://github.com/alexlee-dev/reposier/tree/v0.9.3) (2018-08-31)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.9.2...v0.9.3)
+
+**Implemented enhancements:**
+
+- Add Gifs for Documentation [\#17](https://github.com/alexlee-dev/reposier/issues/17)
+
 ## [v0.9.2](https://github.com/alexlee-dev/reposier/tree/v0.9.2) (2018-08-31)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v0.9.1...v0.9.2)
 
