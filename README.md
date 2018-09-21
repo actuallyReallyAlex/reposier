@@ -83,7 +83,7 @@ reposier
 ❯ Other Account
 ```
 
-![Transferring from Other User](https://res.cloudinary.com/alexlee-dev/image/upload/v1535750263/fromOtherToDefault.svg)
+![Transferring from Other User](https://res.cloudinary.com/alexlee-dev/image/upload/v1535757258/reposier/fromOtherToDefault2.svg)
 
 ### Viewing Credentials
 
@@ -117,8 +117,7 @@ npm uninstall -g reposier
 
 ## Release History
 
-- 0.0.1 - Current
-  - Work in progress
+- 1.0.0 (August 31st, 2018)
 
 ## Meta
 
@@ -140,10 +139,45 @@ Distributed under the GPL license. See `LICENSE` for more information.
 
 You might also be interested in these projects:
 
+- [lazygit](https://github.com/jesseduffield/lazygit): Simple terminal UI for git commands. | [homepage](simple terminal UI for git commands)
 - [starred](https://github.com/maguowei/starred): Creating your own Awesome List by GitHub stars! | [homepage](https://github.com/maguowei/starred 'Creating your own Awesome List by GitHub stars!')
 - [star-history](https://github.com/timqian/star-history): The missing star history graph of github repos. | [homepage](https://github.com/timqian/star-history 'The missing star history graph of github repos.')
 - [github-stars-tagger](https://github.com/artisologic/github-stars-tagger): A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub. | [homepage](https://chrome.google.com/webstore/detail/github-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc 'A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub.')
 - [star-me](https://github.com/fossasia/star-me): Star FOSSASIA Repositories on Github and Support the Community. | [homepage](https://github.com/fossasia/star-me 'Star FOSSASIA Repositories on Github and Support the Community.')
+
+## Built With
+
+Several technologies and services were utilized in the making of reposier.
+
+##### Documentation
+- [docsify](https://docsify.now.sh) - Documentation generator
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Changelog generator
+- [unDraw](https://undraw.co) - Coverpage image
+
+##### Style
+- [Comfortaa](https://fonts.google.com/specimen/Comfortaa) - Font
+
+##### Site
+- [Netlify](https://www.netlify.com) - Hosting
+- [Hover](https://www.hover.com) - Domain
+
+##### Functionality
+- [octokit](https://octokit.github.io/rest.js/) GitHub REST API client for Node.js
+- [boxen](https://www.npmjs.com/package/boxen) - Create boxes in the terminal
+- [chalk](https://www.npmjs.com/package/chalk) - Terminal string styling done right
+- [clear](https://www.npmjs.com/package/clear) - Clear the terminal screen if possible
+- [cli-progress](https://www.npmjs.com/package/cli-progress) - Easy to use Progress-Bar for Command-Line/Terminal Applications
+- [configstore](https://www.npmjs.com/package/configstore) - Easily load and persist config without having to think about where and how
+- [dotenv](https://www.npmjs.com/package/dotenv) - Loads environment variables from .env file
+- [figlet](https://www.npmjs.com/package/figlet) - Creates ASCII art from text. A full implementation of the FIGfont spec
+- [gradient-string](https://www.npmjs.com/package/gradient-string) - Beautiful gradients in terminal stdout
+- [inquirer](https://www.npmjs.com/package/inquirer) - A collection of common interactive command line user interfaces
+- [is-online](https://www.npmjs.com/package/is-online) - Check if the internet connection is up
+- [json2md](https://www.npmjs.com/package/json2md) - A JSON to Markdown converter
+- [lodash.difference](https://www.npmjs.com/package/lodash.difference) - The lodash method _.difference exported as a Node.js module
+- [moment](https://www.npmjs.com/package/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+- [ora](https://www.npmjs.com/package/ora) - Elegant terminal spinner
+- [pretty-error](https://www.npmjs.com/package/pretty-error) - A small tool to see node.js errors with less clutter
 
 <!-- Markdown link & img dfn's -->
 
