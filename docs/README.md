@@ -139,6 +139,7 @@ Distributed under the GPL license. See `LICENSE` for more information.
 
 You might also be interested in these projects:
 
+- [lazygit](https://github.com/jesseduffield/lazygit): Simple terminal UI for git commands. | [homepage](simple terminal UI for git commands)
 - [starred](https://github.com/maguowei/starred): Creating your own Awesome List by GitHub stars! | [homepage](https://github.com/maguowei/starred 'Creating your own Awesome List by GitHub stars!')
 - [star-history](https://github.com/timqian/star-history): The missing star history graph of github repos. | [homepage](https://github.com/timqian/star-history 'The missing star history graph of github repos.')
 - [github-stars-tagger](https://github.com/artisologic/github-stars-tagger): A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub. | [homepage](https://chrome.google.com/webstore/detail/github-stars-tagger/aaihhjepepgajmehjdmfkofegfddcabc 'A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub.')
