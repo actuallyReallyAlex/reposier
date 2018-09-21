@@ -27,15 +27,6 @@ const {
   mainResponse
 } = require('./lib/menus')
 
-const { generateToken, getStarredRepos } = require('./lib/requests')
-
-const test = () => {
-  // generateToken()
-  // getStarredRepos()
-}
-
-// test()
-
 // Overall functionality
 const run = () => {
   // Determine if User is connected to internet
