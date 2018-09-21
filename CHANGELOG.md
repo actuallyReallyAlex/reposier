@@ -1,5 +1,13 @@
 # Change Log
 
+## [v1.0.3](https://github.com/alexlee-dev/reposier/tree/v1.0.3) (2018-09-21)
+[Full Changelog](https://github.com/alexlee-dev/reposier/compare/v1.0.2...v1.0.3)
+
+**Fixed bugs:**
+
+- Source Contains Wrong redoToken\(\) Functionality [\#16](https://github.com/alexlee-dev/reposier/issues/16)
+- Fix Issue \#16 [\#19](https://github.com/alexlee-dev/reposier/pull/19) ([alexlee-dev](https://github.com/alexlee-dev))
+
 ## [v1.0.2](https://github.com/alexlee-dev/reposier/tree/v1.0.2) (2018-09-21)
 [Full Changelog](https://github.com/alexlee-dev/reposier/compare/v1.0.1...v1.0.2)
 
